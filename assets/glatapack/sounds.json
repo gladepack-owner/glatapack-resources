@@ -1,0 +1,10 @@
+{
+    "relogic.corruption_theme": {
+        "sounds": [
+            {
+                "name": "glatapack:corruption_theme",
+                "stream": true
+            }
+        ]
+    }
+}
