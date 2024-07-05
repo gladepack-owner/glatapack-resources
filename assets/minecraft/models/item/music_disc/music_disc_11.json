@@ -9,6 +9,12 @@
         "custom_model_data": 1000
       },
       "model": "minecraft:item/music_disc/relogiccorruptiontheme"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "minecraft:item/music_disc/andyheywardmoonlightdensetsu"
     }
   ]
 }
