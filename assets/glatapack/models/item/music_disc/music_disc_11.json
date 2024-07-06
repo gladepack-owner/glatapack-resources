@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1000
       },
-      "model": "minecraft:item/music_disc/relogiccorruptiontheme"
+      "model": "glatapack:item/music_disc/relogic_corruptiontheme"
     },
     {
       "predicate": {
         "custom_model_data": 1001
       },
-      "model": "minecraft:item/music_disc/andyheywardmoonlightdensetsu"
+      "model": "glatapack:item/music_disc/andyheyward_moonlightdensetsu"
     }
   ]
 }

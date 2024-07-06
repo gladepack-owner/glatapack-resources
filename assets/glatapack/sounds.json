@@ -2,7 +2,7 @@
     "relogic.corruption_theme": {
         "sounds": [
             {
-                "name": "minecraft:records/corruption_theme",
+                "name": "glatapack:records/music_disc_11/corruption_theme",
                 "stream": true
             }
         ]
@@ -10,7 +10,7 @@
     "andyheyward.moonlight_densetsu": {
         "sounds": [
             {
-                "name": "minecraft:records/moonlight_densetsu",
+                "name": "glatapack:records/music_disc_11/moonlight_densetsu",
                 "stream": true
             }
         ]
