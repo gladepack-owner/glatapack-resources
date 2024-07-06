@@ -22,5 +22,94 @@
                 "stream": true
             }
         ]
+    },
+    "transsiberian.christmas_sarajevo": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/christmas_sarajevo",
+                "stream": true
+            }
+        ]
+    },
+    "linkedhorizon.shinzou_wo_sasageyo": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/shinzou_wo_sasageyo",
+                "stream": true
+            }
+        ]
+    },
+    "creedenceclearwaterrevival.fortunate_son": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/fortunate_son",
+                "stream": true
+            }
+        ]
+    },
+    "legendsarceus.heartwood_theme": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/heartwood_theme",
+                "stream": true
+            }
+        ]
+    },
+    "naoshimizuta.pioneers": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/pioneers",
+                "stream": true
+            }
+        ]
+    },
+    "primals.endwalker": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/endwalker",
+                "stream": true
+            }
+        ]
+    },
+    "thatonegingerfromsp.pigfire": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/pigfire",
+                "stream": true
+            }
+        ]
+    },
+    "barchimusicanova.crucifixus": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/crucifixus",
+                "stream": true
+            }
+        ]
+    },
+    "yokotakahashi.cruel_angels_thesis": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/cruel_angels_thesis",
+                "stream": true
+            }
+        ]
+    },
+    "takuiwasaki.scarlet_sky": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/scarlet_sky",
+                "stream": true
+            }
+        ]
+    },
+    "dmdokuro.devourer_of_gods": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/devourer_of_gods",
+                "stream": true
+            }
+        ]
     }
+    
 }

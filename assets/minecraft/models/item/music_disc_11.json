@@ -1,0 +1,92 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_11"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "glatapack:item/music_disc/relogic_corruptiontheme"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "glatapack:item/music_disc/andyheyward_moonlightdensetsu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "glatapack:item/music_disc/matthewseiji_celestecore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "glatapack:item/music_disc/transsiberian_sarajevo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "glatapack:item/music_disc/linkedhorizon_shinzouwosasageyo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "glatapack:item/music_disc/ccrevival_fortunateson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "glatapack:item/music_disc/legendsarceus_heartwoodtheme"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "glatapack:item/music_disc/naoshimizuta_pioneers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "glatapack:item/music_disc/primals_endwalker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "glatapack:item/music_disc/thatonegingerfromsp_pigfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "glatapack:item/music_disc/barchimusicanova_crucifixus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "glatapack:item/music_disc/yokotakahashi_cruelangelsthesis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "glatapack:item/music_disc/takuiwasaki_scarletsky"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "glatapack:item/music_disc/dmdokuro_devourerofgods"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "glatapack:item/music_disc/heartwood_theme"
+  }
+}
