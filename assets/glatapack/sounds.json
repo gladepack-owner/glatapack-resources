@@ -14,5 +14,13 @@
                 "stream": true
             }
         ]
+    },
+    "matthewseiji.celeste_core": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/celeste_core",
+                "stream": true
+            }
+        ]
     }
 }
