@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/disc_fragment_5",
+  "textures": {
+    "layer0": "glatapack:item/music_disc/disc_fragment_shinzou"
+  }
+}
