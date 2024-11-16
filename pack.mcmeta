@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 34,
+        "pack_format": 42,
         "description": "§2§lPaintings! \n§aGlatapack Resource Pack v1.0",
         "supported_versions": {"min_inclusive": 16, "max_inclusive": 34}
     }
