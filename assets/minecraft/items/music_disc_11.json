@@ -1,105 +1,105 @@
 {
     "model": {
-        "type": "minecraft:select",
+        "type": "minecraft:range_dispatch",
         "property": "minecraft:custom_model_data",
         "fallback": {
             "type": "minecraft:model",
             "model": "minecraft:item/music_disc_11"
         },
-        "cases": [
+        "entries": [
             {
-                "when": "1000",
+                "threshold": 1000,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/relogic_corruptiontheme"
                 }
             },
             {
-                "when": "1001",
+                "threshold": 1001,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/andyheyward_moonlightdensetsu"
                 }
             },
             {
-                "when": "1002",
+                "threshold": 1002,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/matthewseiji_celestecore"
                 }
             },
             {
-                "when": "1003",
+                "threshold": 1003,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/transsiberian_sarajevo"
                 }
             },
             {
-                "when": "1004",
+                "threshold": 1004,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/linkedhorizon_shinzouwosasageyo"
                 }
             },
             {
-                "when": "1005",
+                "threshold": 1005,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/ccrevival_fortunateson"
                 }
             },
             {
-                "when": "1006",
+                "threshold": 1006,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/legendsarceus_heartwoodtheme"
                 }
             },
             {
-                "when": "1007",
+                "threshold": 1007,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/naoshimizuta_pioneers"
                 }
             },
             {
-                "when": "1008",
+                "threshold": 1008,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/primals_endwalker"
                 }
             },
             {
-                "when": "1009",
+                "threshold": 1009,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/thatonegingerfromsp_pigfire"
                 }
             },
             {
-                "when": "1010",
+                "threshold": 1010,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/barchimusicanova_crucifixus"
                 }
             },
             {
-                "when": "1011",
+                "threshold": 1011,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/yokotakahashi_cruelangelsthesis"
                 }
             },
             {
-                "when": "1012",
+                "threshold": 1012,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/takuiwasaki_scarletsky"
                 }
             },
             {
-                "when": "1013",
+                "threshold": 1013,
                 "model": {
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/dmdokuro_devourerofgods"
