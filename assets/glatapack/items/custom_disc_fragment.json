@@ -1,0 +1,19 @@
+{
+    "model":{
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/disc_fragment_5"
+        },
+        "cases": [
+            {
+                "when": "9000",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "glatapack:item/music_disc/linkedhorizon_shinzouwosasageyo_fragment"
+                }
+            }
+        ]
+    }
+}
