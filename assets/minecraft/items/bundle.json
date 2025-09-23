@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bundle"
+        },
+        "cases": [
+            {"when": "Trick or Treat Bag", "model": {"type": "model", "model": "glatapack:item/halloween_bag"}}
+        ]
+    }
+}
