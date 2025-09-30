@@ -87,6 +87,12 @@
         "custom_model_data": 1013
       },
       "model": "glatapack:item/music_disc/dmdokuro_devourerofgods"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "glatapack:item/music_disc/halloween"
     }
   ]
 }

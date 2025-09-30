@@ -110,6 +110,14 @@
                 "stream": true
             }
         ]
+    },
+    "halloween": {
+        "sounds": [
+            {
+                "name": "glatapack:records/music_disc_11/halloween",
+                "stream": true
+            }
+        ]
     }
     
 }

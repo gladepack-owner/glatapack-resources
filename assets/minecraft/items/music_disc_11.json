@@ -104,6 +104,13 @@
                     "type": "minecraft:model",
                     "model": "glatapack:item/music_disc/dmdokuro_devourerofgods"
                 }
+            },
+            {
+                "threshold": 1014,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "glatapack:item/music_disc/halloween"
+                }
             }
         ]
     }
