@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "glatapack:block/green_pumpkin_top",
+    "front": "glatapack:block/green_jack_o_lantern",
+    "side": "glatapack:block/green_pumpkin_side"
+  }
+}

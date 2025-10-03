@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/wooden_shovel",
+  "textures": {
+    "layer0": "glatapack:item/pumpkin_scooper"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [35, 90, 0],
+      "translation": [0, 3, 1],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [35, -90, 0],
+      "translation": [0, 3, 1],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_righthand": {
+      "rotation": [55, 90, 0],
+      "translation": [0, 4, 2],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_lefthand": {
+      "rotation": [55, -90, 0],
+      "translation": [0, 4, 2],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

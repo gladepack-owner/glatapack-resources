@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/item_frame"
+        },
+        "cases": [
+            {"when": "glatapack.green_pumpkin", "model": {"type": "model", "model": "glatapack:block/green_pumpkin"}},
+            {"when": "glatapack.green_jack_o_lantern", "model": {"type": "model", "model": "glatapack:block/green_jack_o_lantern"}}
+        ]
+    }
+}
