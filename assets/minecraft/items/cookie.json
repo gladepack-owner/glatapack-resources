@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cookie"
+        },
+        "cases": [
+            {"when": "Chocolate", "model": {"type": "model", "model": "glatapack:item/chocolate"}}
+        ]
+    }
+}

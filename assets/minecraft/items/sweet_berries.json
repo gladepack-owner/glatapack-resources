@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/sweet_berries"
+        },
+        "cases": [
+            {"when": "Mystery Ball Candy", "model": {"type": "model", "model": "glatapack:item/ball_candy"}}
+        ]
+    }
+}
