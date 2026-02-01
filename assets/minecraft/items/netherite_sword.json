@@ -1,0 +1,21 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_sword"
+        },
+        "cases": [
+            {"when": "Rubik's End", "model": {"type": "model", "model": "glatapack:item/sword/rubiks"}},
+            {"when": "Aegis", "model": {"type": "model", "model": "glatapack:item/sword/aegis"}},
+            {"when": "Aegis II", "model": {"type": "model", "model": "glatapack:item/sword/aegis2"}},
+            {"when": "End Katana", "model": {"type": "model", "model": "glatapack:item/sword/end_katana"}},
+            {"when": "Earth", "model": {"type": "model", "model": "glatapack:item/sword/earth"}},
+            {"when": "Lakeland Sword", "model": {"type": "model", "model": "glatapack:item/sword/lakeland_sword"}},
+            {"when": "Zenith", "model": {"type": "model", "model": "glatapack:item/sword/zenith"}},
+            {"when": "Crescent Rose", "model": {"type": "model", "model": "glatapack:item/sword/crescent_rose"}}
+        ]
+    }
+}

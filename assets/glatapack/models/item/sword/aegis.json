@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "glatapack:item/sword/aegis"
+  },
+  "display": {
+		"thirdperson_righthand": {
+			"rotation": [8, -98, 55],
+			"translation": [0, 14, 0.5],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [8, 98, -55],
+			"translation": [0, 14, 0.5],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 33],
+			"translation": [3, 12, 1.5],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -33],
+			"translation": [3, 12, 1.5],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [3, 5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [3, 3, 0],
+			"scale": [1.25, 1.25, 1]
+		},
+		"fixed": {
+			"scale": [1.5, 1.5, 1],
+			"translation": [-3.9, 3.9, 1],
+			"rotation": [0, 180, 0]
+		}
+	}
+}
