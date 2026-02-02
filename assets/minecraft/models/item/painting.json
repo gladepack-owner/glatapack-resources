@@ -97,6 +97,9 @@
 	{ "predicate": {"custom_model_data":629090}, "model": "item/painting/tiny_huge_island" },
 	{ "predicate": {"custom_model_data":629091}, "model": "item/painting/wet_dry_world" },
 	{ "predicate": {"custom_model_data":629092}, "model": "item/painting/whomps_fortress" },
-	{ "predicate": {"custom_model_data":629093}, "model": "item/painting/zero_two" }
+	{ "predicate": {"custom_model_data":629093}, "model": "item/painting/zero_two" },
+	{ "predicate": {"custom_model_data":629094}, "model": "item/painting/bowser" },
+	{ "predicate": {"custom_model_data":629095}, "model": "item/painting/dennis" },
+	{ "predicate": {"custom_model_data":629096}, "model": "item/painting/peach" }
     ]
 }

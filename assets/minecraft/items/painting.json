@@ -101,7 +101,9 @@
             {"when": "tiny_huge_island", "model": {"type": "model", "model": "item/painting/tiny_huge_island"}},
             {"when": "wet_dry_world", "model": {"type": "model", "model": "item/painting/wet_dry_world"}},
             {"when": "whomps_fortress", "model": {"type": "model", "model": "item/painting/whomps_fortress"}},
-            {"when": "zero_two", "model": {"type": "model", "model": "item/painting/zero_two"}}
+            {"when": "zero_two", "model": {"type": "model", "model": "item/painting/zero_two"}},
+            {"when": "bowser", "model": {"type": "model", "model": "item/painting/bowser"}},
+            {"when": "peach", "model": {"type": "model", "model": "item/painting/peach"}}
         ]
     }
 }
