@@ -118,6 +118,13 @@
                 "stream": true
             }
         ]
+    },
+    "goat_horn.taco_bell": {
+        "sounds": [
+            {
+                "name": "glatapack:goat_horn/taco_bell",
+                "stream": true
+            }
+        ]
     }
-    
 }

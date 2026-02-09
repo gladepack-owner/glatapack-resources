@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/goat_horn"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 15000
+      },
+      "model": "glatapack:item/goat_horn/taco_bell"
+    }
+  ]
+}
