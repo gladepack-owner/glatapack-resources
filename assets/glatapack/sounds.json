@@ -119,11 +119,10 @@
             }
         ]
     },
-    "goat_horn.taco_bell": {
+    "item.goat_horn.taco_bell": {
         "sounds": [
             {
-                "name": "glatapack:goat_horn/taco_bell",
-                "stream": true
+                "name": "glatapack:goat_horn/taco_bell"
             }
         ]
     }
