@@ -11,7 +11,21 @@
                 "threshold": 15000,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "glatapack:item/goat_horn/taco_bell"
+                    "model": "minecraft:item/goat_horn"
+                }
+            },
+            {
+                "threshold": 15001,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/goat_horn"
+                }
+            },
+            {
+                "threshold": 15002,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/goat_horn"
                 }
             }
         ]

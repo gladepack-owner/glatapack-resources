@@ -125,5 +125,19 @@
                 "name": "glatapack:goat_horn/taco_bell"
             }
         ]
+    },
+    "item.goat_horn.josh_scream": {
+        "sounds": [
+            {
+                "name": "glatapack:goat_horn/josh_scream"
+            }
+        ]
+    },
+    "item.goat_horn.vine_boom": {
+        "sounds": [
+            {
+                "name": "glatapack:goat_horn/vine_boom"
+            }
+        ]
     }
 }

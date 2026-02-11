@@ -8,7 +8,19 @@
       "predicate": {
         "custom_model_data": 15000
       },
-      "model": "glatapack:item/goat_horn/taco_bell"
+      "model": "item/goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15001
+      },
+      "model": "item/goat_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15002
+      },
+      "model": "item/goat_horn"
     }
   ]
 }
